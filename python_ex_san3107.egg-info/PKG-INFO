@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: python-ex-san3107
+Version: 1.0.0
+Summary: A sample python package example
+Home-page: https://github.com/Kount/kount-ris-python-sdk
+Author: sanjeev1992jha
+Author-email: sanjeev1992jha@gmail.com
+License: UNKNOWN
+Description: Welcome to Sample Python Packages Example
+Platform: UNKNOWN
+Classifier: Programming language :: Pyhton :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
