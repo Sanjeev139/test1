@@ -14,9 +14,9 @@ setuptools.setup(
 	url="https://github.com/Sanjeev139/test1",
 	packages=setuptools.find_packages(),
 	classifiers=[
-		"Programming language :: Pyhton :: 3",
+		"Programming language :: Pyhton :: 3.5",
 		"License :: OSI Approved :: MIT License",
 		"Operating System :: OS Independent",
 	],
-	python_requires='>=3',
+	python_requires='>=3.5',
 	)
