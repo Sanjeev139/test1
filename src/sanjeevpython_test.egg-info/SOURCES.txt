@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/sanjeevpython_test.egg-info/PKG-INFO
-src/sanjeevpython_test.egg-info/SOURCES.txt
-src/sanjeevpython_test.egg-info/dependency_links.txt
-src/sanjeevpython_test.egg-info/requires.txt
-src/sanjeevpython_test.egg-info/top_level.txt
