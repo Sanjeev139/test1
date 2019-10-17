@@ -41,21 +41,21 @@ AUTHOR = 'Kount'
 
 EMAIL = 'sanjeev1992jha@gmail.com'
 
-PROJECT = 'python_test'
+PROJECT = 'sanjeev_pypi_test01'
 
-PROJECT_MODULE = 'python_test'
+PROJECT_MODULE = 'sanjeev_pypi_test01'
 
 VERSION = version
 
 PROJECT_URL = 'https://github.com/Sanjeev139/python-hello-world'
 
-DESC = 'python test'
+DESC = 'Sanjeev pypi test01'
 
 LONG_DESC = ''
 
 LICENSE = 'Unknown'
 
-KEYWORDS = ('hellow', 'world', 'test3')
+KEYWORDS = ('pypi', 'sanjeev pypi', 'sanjeev pypi test01')
 
 
 
