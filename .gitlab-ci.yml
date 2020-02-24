@@ -1,9 +1,9 @@
-image: python:3.7.2-alpine
+image: python:3.9.0a3-buster
 
-  
 stages:
 
   - deploy
+
 
 before_script:
 
