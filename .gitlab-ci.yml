@@ -2,6 +2,8 @@ image: python:3.6.10-buster
 
 stages:
 
+  - build
+  - test
   - deploy
 
 
