@@ -7,6 +7,8 @@ stages:
 
 before_script:
 
+   - pip install --upgrade pip
+
    - pip install twine
 
    - python setup.py sdist bdist_wheel
